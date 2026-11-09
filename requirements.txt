@@ -1,0 +1,5 @@
+PyMuPDF
+Markdown
+latex2mathml
+# 可选：md2html.py 图形界面的拖放支持
+# tkinterdnd2

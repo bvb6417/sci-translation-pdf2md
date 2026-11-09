@@ -1,0 +1,4 @@
+interface:
+  display_name: "SCI Translation PDF2MD"
+  short_description: "Translate papers to Chinese Markdown and image-embedded HTML."
+  default_prompt: "Use $sci-translation-pdf2md to translate this SCI PDF into Chinese Markdown, preserve formulas and figures, add article-specific key points, provide an infographic or Chinese generation prompt, and export HTML with embedded images."
